@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: My website
+title: Andrew Saba
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: A small website to highlight my projects
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -21,7 +21,7 @@ description: A virtual proof that I'm awesome
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Projects:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
   Author's home: "http://deanattali.com"
@@ -68,12 +68,12 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "asaba96@pitt.edu"
+#  facebook: 
+  github: asaba96
+#  twitter: daattali
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: asaba96
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
