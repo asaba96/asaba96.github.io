@@ -1,16 +1,9 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Andrew Saba 
+subtitle: Computer Engineering student at the University of Pittsburgh
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hello! My name is Andrew and I am in my last semester at the University of Pittsburgh, Swanson School of Engineering, studying Computer Engineering. I love robots, especially flying ones, and am currently a Research Associate II in the [AirLab](theairlab.org) at Carnegie Mellon University, Robotics Institute. I also mentor a robotics team at Pitt that is making autonomous ground vehicles to compete in the Intelligent Ground Vehicle Competition and FSAE Germany Autonomy events as part of
+Pitt's [Robotics and Automation Society](pittras.org).
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
