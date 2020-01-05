@@ -22,9 +22,7 @@ description: A small website to highlight my projects
 navbar-links:
   About Me: "aboutme"
   Projects:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+    - Learn markdown: "/projects/aboutme.md"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
