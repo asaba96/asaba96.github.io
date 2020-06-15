@@ -21,7 +21,6 @@ description: Systems/Software Engineer Robotics Institute, CMU
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resume: "resume"
   Projects:
     - MBZIRC 2020: "2020-04-10-MBZIRC"
     - RISS & Contact Inspection: "2020-04-25-CI"
